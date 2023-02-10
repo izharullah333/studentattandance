@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266810875756",
+    "project_id": "student-attandence-syste-72089",
+    "storage_bucket": "student-attandence-syste-72089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266810875756:android:3b28acf8d6229f85b85d49",
+        "android_client_info": {
+          "package_name": "com.example.studentattandance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266810875756-0s0874d1ooahjug84l8ncgn58hcpavbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCVJwNxpyHo8CTIQWAUFNeA1cjHdgn_ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266810875756-0s0874d1ooahjug84l8ncgn58hcpavbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
